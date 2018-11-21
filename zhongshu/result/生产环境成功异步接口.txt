@@ -1,0 +1,5 @@
+族谱异步 执行成功 {'result': {'order': '23b3edb5-a479-44ba-9ac3-658ab7e89549'}, 'code': 200, 'msg': '成功'} {'result': {'size': 215, 'complete': True, 'status': 4}, 'code': 200, 'msg': '成功'}
+控制路径异步 执行成功 {'result': {'order': '968b8c65-fdc8-4ee2-9985-fcc421536724'}, 'code': 200, 'msg': '成功'} {'result': {'size': 698, 'complete': True, 'status': 4}, 'code': 200, 'msg': '成功'}
+实质关联异步 执行成功 {'result': {'order': 'ece0c538-28b2-415b-b567-c6a71de70632'}, 'code': 200, 'msg': '成功'} {'result': {'size': 3563, 'complete': True, 'status': 4}, 'code': 200, 'msg': '成功'}
+多节点关联异步 执行成功 {'result': {'order': '0b30426b-0e26-41b7-b61e-b8b3b7792ec1'}, 'code': 200, 'msg': '成功'} {'result': {'size': 299, 'complete': True, 'status': 4}, 'code': 200, 'msg': '成功'}
+风险视图异步 执行成功 {'result': {'order': 'c0c09995-2bc1-461f-8c5e-06a50de910f7'}, 'code': 200, 'msg': '成功'} {'result': {'size': 5429, 'complete': True, 'status': 4}, 'code': 200, 'msg': '成功'}
